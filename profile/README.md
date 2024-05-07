@@ -38,12 +38,7 @@ De la stratégie à la performance, nous associons nos talents et nos services p
 
 ## 🔗 Links
 
-[![website](https://img.shields.io/badge/Website-062E33)](https://walt.digital/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/walt-digital/)
 [![instagram](https://img.shields.io/badge/instagram-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walt_digital/)
 
-## Authors
 
--   [@Thomas-walt](https://www.github.com/people/Thomas-walt)
--   [@MarcowNemausus](https://www.github.com/people/MarcowNemausus)
--   [@falroz](https://www.github.com/people/falroz)
