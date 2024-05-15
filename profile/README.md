@@ -1,6 +1,6 @@
 ![Logo](https://walt.digital/wp-content/uploads/2024/04/banner-page-2.png)
 
-# Agence digitale partenaire de votre croissance sur le Webds
+# Agence digitale partenaire de votre croissance sur le Web
 
 Agence experte et partenaire de confiance, Walt vous accompagne à chaque étape de votre projet sur le Web.
 De la stratégie à la performance, nous associons nos talents et nos services pour vous garantir une communication digitale efficace et une croissance durable.
